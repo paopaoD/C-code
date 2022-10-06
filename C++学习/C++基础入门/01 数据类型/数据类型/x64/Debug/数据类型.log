@@ -1,0 +1,8 @@
+﻿  02 sizeof关键字.cpp
+  03 浮点型.cpp
+C:\Users\admin\Desktop\code\C++学习\数据类型\数据类型\03 浮点型.cpp(30,17): warning C4305: “初始化”: 从“double”到“float”截断
+  04 字符型.cpp
+  05 字符串型.cpp
+  06 布尔型.cpp
+  正在生成代码...
+  数据类型.vcxproj -> C:\Users\admin\Desktop\code\C++学习\数据类型\x64\Debug\数据类型.exe
